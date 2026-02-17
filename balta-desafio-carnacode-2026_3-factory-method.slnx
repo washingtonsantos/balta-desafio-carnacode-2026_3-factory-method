@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src/Challenge.cs" />
+    <Project Path="src/FactoryMethod/FactoryMethod.csproj" Id="c1918de6-2f37-4bc0-8c8a-2852ddbd5209" />
+  </Folder>
+</Solution>
